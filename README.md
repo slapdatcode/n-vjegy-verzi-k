@@ -1,3 +1,3 @@
-# n-vjegy-verzi-k
+# nevjegy-verziok
 névjegy próbaverziók
 Névjegy online változatok mappája.
